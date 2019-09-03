@@ -1,6 +1,7 @@
 # cc-gag
 
-Clone this repository <br />
+Fork this repository into your account<br />
+Clone it into your system. <br />
 Enter its folder<br />
 open name.c<br />
 You have to enter your name using the print statement<br />
