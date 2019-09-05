@@ -1,10 +1,10 @@
 #include<stdio.h>
-
-int main()
+#include<conio.h>
+void main()
 {
 printf("CC & GAG\n");
-//enter your name and roll numbers in the print statement
+printf("Name-Sahitya,Roll No.-1/19/FET/BCS/230");//enter your name and roll numbers in the print statement
 
 
-return 0;
+getch();
 }
