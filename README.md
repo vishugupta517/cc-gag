@@ -3,7 +3,7 @@ Download & install git from https://git-scm.com/downloads<br />
 after installation:<br />
 Fork this repository into "your" account<br />
 Clone it into your system using command: <br />
-&nbsp;&nbsp;&nbsp; $git clone url // &nbsp;&nbsp;&nbsp;example:replace url with  https://github.com/your-account/cc-gag<br /> 
+&nbsp;&nbsp;&nbsp; $git clone url &nbsp;&nbsp;&nbsp;//example:replace url with  https://github.com/your-account/cc-gag<br /> 
 Enter cc-gag folder<br />
 open "name.c" in a text editor.<br />
 Enter your name using the printf statement in c programming language.<br />
