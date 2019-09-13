@@ -14,6 +14,7 @@ printf("Divyansh\n1/19/FET/BCS/225");
 printf("Gourisha Goel \n Roll no.- 1/19/FET/BCS/169");
 printf("Y Zakir Fakruddin\n roll no-150");
 printf("Bhavesh Kumar\n Roll no-143");
+printf ("Devesh Mudgal\n 1/19/FET/BCS/224");
 printf("Raghav Jagya\nRoll No.=1/19/FET/BCS/221");
 printf("\nJayant Bhatia   Roll no.-145");
 printf("rahul chawla\n roll no-173");
