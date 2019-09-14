@@ -29,5 +29,6 @@ printf("mohit kumar \n roll number -135);
 printf("name-zakir roll no-150");
 printf("SAPNA KUSHWAHA \n 1/19/FET/BCS/229");
 printf("Sahitya diwakar\n roll no 230");
+printf("Chansi pal,1/19/FET/BCS/226");
 return 0;
 }
