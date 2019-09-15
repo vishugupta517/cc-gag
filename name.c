@@ -31,5 +31,7 @@ printf("SAPNA KUSHWAHA \n 1/19/FET/BCS/229");
 printf("Sahitya diwakar\n roll no 230");
 printf("Chansi pal,1/19/FET/BCS/226");
 printf("Hardik Gulati,1/19/FET/BCS/228");       
+printf("Name-Shivansh,Rollno-127(Cloud computing)");
 return 0;
 }
+       
